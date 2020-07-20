@@ -27,7 +27,7 @@ public class Main extends Plugin {
     }
 
     @Override
-    public void onLoad() {
+    public void onEnable() {
         instance = this;
 
         // Loading config

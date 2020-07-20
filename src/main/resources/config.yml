@@ -1,5 +1,5 @@
 # Port you want RCON to listen
-port: 25578
+port: 25575
 # Password you want to authenticate connection with
 password:
 # This can be used if you want RCON response to be (not) colored
