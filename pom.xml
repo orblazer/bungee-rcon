@@ -8,8 +8,12 @@
     <description>Allow use rcon on bungeecord</description>
     <groupId>fr.orblazer</groupId>
     <artifactId>bungee-rcon</artifactId>
-    <version>1.0.0</version>
+    <version>${version}</version>
     <packaging>jar</packaging>
+
+    <properties>
+        <version>SNAPSHOT</version>
+    </properties>
 
     <repositories>
         <repository>
