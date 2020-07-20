@@ -1,0 +1,6 @@
+name: ${project.name}
+description: ${project.description}
+version: ${project.version}
+author: Orblazer
+
+main: fr.orblazer.bungee-rcon.Main
